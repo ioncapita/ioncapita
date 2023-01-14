@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer !!
 
- I'm Ion and I was born in Moldova but raised in Portugal. I really enjoy learning languages, frameworks and others new concepts. I'm currently looking for a junior front end position to improve my skills as front end developer.
+ I'm Ion and I was born in Moldova but raised in Portugal. I really enjoy learning languages, frameworks and others new concepts. Now I am focused on ReactJS with Typescript, but I am not afraid to switch to any other technology.
 
 ### Connect with me:
 
