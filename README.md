@@ -1,6 +1,6 @@
 ### Hi there, I'm Ion - aka [Yonel] 👋
 
-## I'm a Full-Stack Developer !!
+## I'm a Frontend Developer !!
 
  I'm Ion and I was born in Moldova but raised in Portugal. I really enjoy learning languages, frameworks and others new concepts. I'm currently looking for a junior front end position to improve my skills as front end developer.
 
